@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+##Hello! I am an aspiring data analyst and college student. This repository showcases my technical skills in cleaning, ##analyzing, and visualizing data to solve real-world problems.
 <!--
 **Vismay-Raj/Vismay-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
